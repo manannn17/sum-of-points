@@ -1,3 +1,5 @@
+This project is subjected to copurights and it belogngs to the University of Illinois at Chicago
+
 # sum-of-points
 
 Given a target sum and a set of integers, the goal is to determine if any two integers in the set can be added together to equal the target sum. This involves iterating through the set of integers and checking each pair to see if their sum is equal to the target. Some key points:
